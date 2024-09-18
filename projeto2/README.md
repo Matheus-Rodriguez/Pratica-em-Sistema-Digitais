@@ -2,22 +2,23 @@
 
 ## Resumo:
 A atividade da semana (semanas 3 e 4) envolveu a aplicação de contadores com diferentes aplicações, todos os exercícios foram realizados em VHDL.
+Os exercicios foram feitos com base em: 
 ## Parte 1
 O primeiro exercício realizado foi a construção de um contador síncrono de 4 bits a partir de flip flops do tipo T, rodamos uma simulação no model sim e depois representamos os bits em uma FPGA a partir de dois displays de 7 segmentos.
 
-#Simulação 
+# Simulação 
 
-#FPGA
+# FPGA
 
-#RTL VIEWER
+# RTL VIEWER
 
 
 ## Parte 2
 No segundo exercício fizemos, de maneira similar a parte 1, um contador síncrono de 16 bits, no entanto no vhdl nós utilizamos um vetor para incrementar os bits. Fizemos então a implementação na FPGA através do Quartus.
 
-#FPGA
+# FPGA
 
-#RTL VIEWER
+# RTL VIEWER
 
 ## Parte 3
 O exercício 4 por sua vez era baseado na exibição de uma palavra no display de 7 segmentos que  ficava rotacionando estaticamente da esquerda para direita, para tal, utilizamos do mesmo princípio do exercício 3, em que, o contador rápido conta até 50.000.000 para converter o ciclo de clock de 50 MHz em 1Hz, a única diferença foi no contador lento, já que o configuramos para contar apenas até 3 de forma que cada número foi relacionado a posição de cada letra, de forma que gerasse a rotação exigida.
