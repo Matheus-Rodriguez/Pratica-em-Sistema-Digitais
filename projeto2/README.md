@@ -7,7 +7,7 @@ Os exercicios foram feitos com base em: ![exercícios](lab4.pdf)
 O primeiro exercício realizado foi a construção de um contador síncrono de 4 bits a partir de flip flops do tipo T, rodamos uma simulação no model sim e depois representamos os bits em uma FPGA a partir de dois displays de 7 segmentos.
 
 ### Simulação 
-![PArt1_simulacao](PArt1_simulacao.png)
+![Part1_simulacao](Part1_simulacao.png)
 
 ### RTL VIEWER
 Circuito Completo
