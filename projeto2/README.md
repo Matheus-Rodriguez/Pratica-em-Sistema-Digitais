@@ -17,7 +17,7 @@ Contador
 ![Part1_RTL2](Part1_RTL2.png)
 
 T Flip Flop:
-![PArt1_RTL3]([PArt1_RTL3.png)
+![PArt1_RTL3](PArt1_RTL3.png)
 
 
 ## Parte 2
