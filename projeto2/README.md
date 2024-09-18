@@ -10,10 +10,10 @@ O primeiro exercício realizado foi a construção de um contador síncrono de 4
 ![Part1_simulacao](Part1_simulacao.png)
 
 ### RTL VIEWER
-Circuito Completo
+Circuito Completo:
 ![Part1_RTL1](Part1_RTL1.png)
 
-Contador
+Contador:
 ![Part1_RTL2](Part1_RTL2.png)
 
 T Flip Flop:
@@ -24,11 +24,11 @@ T Flip Flop:
 No segundo exercício fizemos, de maneira similar a parte 1, um contador síncrono de 16 bits, no entanto no vhdl nós utilizamos um vetor para incrementar os bits. Fizemos então a implementação na FPGA através do Quartus.
 
 ### RTL VIEWER
-Circuito Completo
+Circuito Completo:
 ![PArt2_RTL1](PArt2_RTL1.png)
 
-Contador
-![PArt2_RTL2](PArt2_RTL2.png)
+Contador:
+![Part2_RTL2](Part2_RTL2.png)
 
 
 ## Parte 3
