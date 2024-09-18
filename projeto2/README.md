@@ -25,10 +25,10 @@ No segundo exercício fizemos, de maneira similar a parte 1, um contador síncro
 
 ### RTL VIEWER
 Circuito Completo
-![PArt2_RTL1]([PArt2_RTL1.png)
+![PArt2_RTL1](PArt2_RTL1.png)
 
 Contador
-![PArt2_RTL2]([PArt2_RTL2.png)
+![PArt2_RTL2](PArt2_RTL2.png)
 
 
 ## Parte 3
