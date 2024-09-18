@@ -1,8 +1,8 @@
 # Prática em Sistemas em Digitais - Atividade 2
 
 ## Resumo:
-A atividade da semana (semanas 3 e 4) envolveu a aplicação de contadores com diferentes aplicações, todos os exercícios foram realizados em VHDL.
-Os exercicios foram feitos com base em: ![exercícios](lab4.pdf)
+A atividade da semana (semanas 3 e 4) envolveu a aplicação de contadores com diferentes aplicações, todos as partes foram feitas utilizando em VHDL.
+O projeto foi feito com base nos ![exercícios](lab4.pdf)
 ## Parte 1
 O primeiro exercício realizado foi a construção de um contador síncrono de 4 bits a partir de flip flops do tipo T, rodamos uma simulação no model sim e depois representamos os bits em uma FPGA a partir de dois displays de 7 segmentos.
 
